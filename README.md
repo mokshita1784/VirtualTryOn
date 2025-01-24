@@ -1,4 +1,4 @@
-An **SRS (Software Requirements Specification)** document outlines the functional and non-functional requirements for a software system. 
+**SRS (Software Requirements Specification)** 
 
 ---
 
